@@ -1,2 +1,4 @@
-{ "playtester", "#3498db" },
-{ "contributor","#b70000" }
+{
+  "playtester": "#3498db",
+  "contributor": "#b70000"
+}
